@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "name": "Tomato",
+    "soil": "Loamy Soil",
+    "watering": "Once a day",
+    "sunlight": "6-8 hours",
+    "season": "Summer"
+  },
+  {
+    "id": 2,
+    "name": "Basil",
+    "soil": "Well-drained soil",
+    "watering": "Every other day",
+    "sunlight": "4-6 hours",
+    "season": "Spring"
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera",
+    "soil": "Sandy soil",
+    "watering": "Once a week",
+    "sunlight": "Indirect sunlight",
+    "season": "All year"
+  },
+  {
+    "id": 4,
+    "name": "Mint",
+    "soil": "Moist soil",
+    "watering": "Twice a week",
+    "sunlight": "Partial shade",
+    "season": "Spring/Summer"
+  }
+]

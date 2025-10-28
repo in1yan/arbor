@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": 1,
+    "author": "Gardener_123",
+    "post": "My basil leaves are turning yellow 😕",
+    "likes": 12,
+    "comments": 5,
+    "avatar": "https://via.placeholder.com/50"
+  },
+  {
+    "id": 2,
+    "author": "Tomato_Lover",
+    "post": "Harvested my first batch of tomatoes 🍅!",
+    "likes": 34,
+    "comments": 12,
+    "avatar": "https://via.placeholder.com/50"
+  }
+]

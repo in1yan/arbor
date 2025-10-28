@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": 1,
+    "name": "Tomato",
+    "stage": "Sprout",
+    "nextAction": "Add Water",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Basil",
+    "stage": "Mature",
+    "nextAction": "Harvest",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera",
+    "stage": "Seed",
+    "nextAction": "Move to Sunlight",
+    "image": "https://via.placeholder.com/150"
+  }
+]

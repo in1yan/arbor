@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": 1,
+    "name": "Mint - Swap",
+    "seller": "John Doe",
+    "distance": "1.2 km",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Organic Tomato - For Sale ₹50",
+    "seller": "Jane Doe",
+    "distance": "2.5 km",
+    "image": "https://via.placeholder.com/150"
+  }
+]
