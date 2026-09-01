@@ -52,7 +52,7 @@ services:
         condition: service_healthy
 
   redis:
-    image: bitnami/redis:6.2.5
+    image: soldevelo/redis:6.2.16
     hostname: "backend-redis"
     restart: always
     environment:
